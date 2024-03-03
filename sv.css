@@ -36,7 +36,7 @@ h1{ font-weight:bold;
     border: solid 2px white;
     height: 2px;
     width: 550px;
-	background-color:blue;
+	background-color:red;
 	margin-left:1px;
 	
 	
@@ -57,7 +57,7 @@ h1{ font-weight:bold;
 
 
 	
- h4{color:blue;
+ h4{color: white;
     text-decoration:underline;
 	background:black;
 	  -webkit-border-radius:25px;padding:10px;
