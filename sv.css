@@ -1,0 +1,104 @@
+ 
+ body
+ {background-image:url(tech.jpg);
+	  color:white;
+ }
+	 
+h1{ font-weight:bold;
+    color : yellow;
+	
+	font-size : 40px;
+	top:10px;
+	margin-bottom:0px;
+	width:50%;
+   }
+   
+   
+  #sandeep{
+	  
+	  padding:0px;
+	  position:absolute;
+	  top:0px;
+	  margin-top:0px;
+	  width:150px;
+	  right:20%;
+	  left:80%
+        
+  }
+
+    #eng{
+	    position:relative;
+	    top: 5px;  
+		color:yellow;
+  }
+  
+  #undr{
+    border: solid 2px white;
+    height: 2px;
+    width: 550px;
+	background-color:red;
+	margin-left:1px;
+	
+	
+  }
+ 
+  #skl li{
+	  display:inline-block;
+	  padding:10px;
+	  background:#b8a6a5;
+	  -webkit-border-radius:25px;
+	  font-weight:bold;
+  }
+  #profile li{
+	         display:inline-block;
+			 margin-right:80px;
+	  
+  }
+
+
+	
+ h4{color:red;
+    text-decoration:underline;
+	background:black;
+	  -webkit-border-radius:25px;padding:10px;
+	 }
+	 
+	 
+ #gender{
+	 float:left; 
+	 clear:both;
+	 margin-right:40px;
+ }
+ 
+  
+ 
+ #rest{
+	 padding-top:23px;
+	   background-color:white;
+	   color:black;
+	   padding:10px;
+	 
+	 
+     }
+  @media(max-width:800px){
+	  
+	   #sandeep{
+	  
+	  padding:0px;
+	  position:fixed;
+	  top:0px;
+	  margin-top:0px;
+	  width:150px;
+	  right:20%;
+	  left:80%
+        
+  }
+  
+    #eng{
+	    position:fixed;
+	    top: 5px;  
+		color:#ff7223;
+  }
+	  
+	  
+  }
